@@ -1,12 +1,13 @@
 <h1 align="center">Hello World!</h1>
 
-<p>Me chamo Gustavo (SrQubit), programador das antigas</p>
+<p>Me chamo Gustavo (SrQubit), alguns trabalhos no momento:</p>
 
 <ul>
-  <li>srqubit@gmail.com</li>
-  <li>www.gustavolacerda.eng.br</li>
-  <li>www.twitter.com/SrQubit</li>
-  <li>www.instagram.com/srqubit</li>
+  <li>Desenvolvimento de software WEB Python + Django</li>
+  <li>Software para automação industrial utilizando Python na IOT 2050 da siemens</li>
+  <li>Biblioteca para comunicação com protocolos industriais como Modbus RTU e TCP, Profinet e Profibus utilizando python</li>
+  <li>Software para integração via API Rest em C# e Python</li>
+  <li>Entre outros....</li>
 </ul>
 
 <hr>
