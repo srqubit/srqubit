@@ -23,25 +23,11 @@ Trabalhei em projetos para grandes clientes como **Gerdau, ArcelorMittal e Votor
   - Metodologias ágeis (Scrum, Kanban)
 
 - **O que eu faço**:
-  - **Diretor de TI e Projetos** na MSI Automação  
-  - Liderança de equipes de desenvolvimento  
-  - Transformação digital, integração de sistemas MES/PIMS, IA e modelos matemáticos  
+  - **Diretor de desenvolvimento e Tecnologia** na MSI Engenharia & Tecnologia;
+  - Liderança de equipes do setor de engenharia de automação industrial;
+  - Transformação digital, integração de sistemas MES/PIMS, IA e modelos matemáticos;
 
 ---
-
-## Estatísticas do GitHub
-[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=srqubit&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srqubit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Troféus
-[![trophy](https://github-profile-trophy.vercel.app/?username=srqubit&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- 
-  Snake Animation
-  Para configurar, siga as instruções do repositório: https://github.com/Platane/snk
-  Descomente a linha abaixo depois de configurar o workflow:
--->
-<!-- ![snake gif](https://github.com/srqubit/srqubit/blob/output/github-contribution-grid-snake.svg) -->
 
 <details>
   <summary>Curiosidades extras</summary>
@@ -49,7 +35,6 @@ Trabalhei em projetos para grandes clientes como **Gerdau, ArcelorMittal e Votor
   - Gosto de um café enquanto faço reviews de código ☕
   - Sempre em busca de novas tecnologias e desafios
   - Nas horas vagas, fã de esportes de tiro e música
-
 </details>
 
 ---
