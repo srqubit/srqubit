@@ -1,14 +1,8 @@
 # Gustavo Josias de Lacerda
 
-![Profile views](https://gpvc.arturio.dev/srqubit)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavomsi/)
+![Profile Views](https://komarev.com/ghpvc/?username=srqubit&color=blueviolet)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gustavomsi/)
 [![Website](https://img.shields.io/badge/-Website-green?logo=internet-explorer&logoColor=white)](https://gustavolacerda.eng.br)
-
-**Pronouns**: He/Him  
-**Location**: Divinópolis-MG, Brazil  
-**Company**: MSI Automação  
-**Public Email**: [contato@gustavolacerda.eng.br](mailto:contato@gustavolacerda.eng.br)  
-**Website**: [gustavolacerda.eng.br](https://gustavolacerda.eng.br)  
 
 ---
 
@@ -39,10 +33,20 @@ Trabalhei em projetos para grandes clientes como **Gerdau, ArcelorMittal e Votor
 [![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=srqubit&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srqubit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## Troféus
+[![trophy](https://github-profile-trophy.vercel.app/?username=srqubit&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- 
+  Snake Animation
+  Para configurar, siga as instruções do repositório: https://github.com/Platane/snk
+  Descomente a linha abaixo depois de configurar o workflow:
+-->
+<!-- ![snake gif](https://github.com/srqubit/srqubit/blob/output/github-contribution-grid-snake.svg) -->
+
 <details>
-  <summary>Ver curiosidades extras</summary>
+  <summary>Curiosidades extras</summary>
   
-  - Adoro um café enquanto faço reviews de código ☕
+  - Gosto de um café enquanto faço reviews de código ☕
   - Sempre em busca de novas tecnologias e desafios
   - Nas horas vagas, fã de esportes de tiro e música
 
@@ -52,4 +56,4 @@ Trabalhei em projetos para grandes clientes como **Gerdau, ArcelorMittal e Votor
 
 Quer bater um papo ou trocar uma ideia?  
 Entre em contato via [LinkedIn](https://www.linkedin.com/in/gustavomsi/) ou pelo [meu site](https://gustavolacerda.eng.br).  
-Boas linhas de código (e boas doses de café)!  
+Boas linhas de código (e boas doses de café)!
